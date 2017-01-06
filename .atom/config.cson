@@ -1,0 +1,29 @@
+"*":
+  "autocomplete-ruby": {}
+  core:
+    disabledPackages: [
+      "metrics"
+    ]
+    ignoredNames: [
+      ".*"
+    ]
+    projectHome: "/home/yavor/Projects/perpetto"
+    telemetryConsent: "no"
+  editor:
+    invisibles: {}
+    showInvisibles: true
+  "exception-reporting":
+    userId: "52901ba6-5c0b-9655-efd8-482b06761e8f"
+  linter:
+    errorPanelHeight: 26
+    subtleLinterErrors: [
+      "pylint"
+    ]
+  "linter-jshint": {}
+  "linter-pylint":
+    executable: "pylint2"
+  "linter-scalac": {}
+  "tree-view":
+    hideIgnoredNames: true
+  welcome:
+    showOnStartup: false
